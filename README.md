@@ -1,6 +1,6 @@
 # Basic Computer Science
 <p align="center">
-  <img src="contents/image/BCS.png" width="230" height="230">
+  <img src="Computer Science/resources/BCS.png" width="230" height="230">
 </p>
 
 
