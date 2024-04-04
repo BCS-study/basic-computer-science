@@ -1,8 +1,4 @@
 # Basic Computer Science
-<p align="center">
-  <img src="Computer Science/resources/BCS.png" width="230" height="230">
-</p>
-
 
 ## About
 - **웹 개발자로서 필수로 알아야 할** 기본적인 CS를 다룬 저장소입니다.
@@ -10,9 +6,9 @@
 - 해당 스터디는 **발표형 및 면접형** 스터디입니다. 
 
 ### Collaborator
-| [상혁](https://github.com/NewCodes7) | [영현](https://github.com/k2645) | [동휘](https://github.com/doonghui) | [한얼](https://github.com/OhHaneol) | [수민](https://github.com/minsu111) | 
+| [상혁](https://github.com/NewCodes7) | [영현](https://github.com/k2645) | [인국](https://github.com/ukukdin) | [한얼](https://github.com/OhHaneol) | [수민](https://github.com/minsu111) | 
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://avatars.githubusercontent.com/u/123712285?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/62226667?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/62371491?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/62991586?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/124219344?v=4" width="100"> | 
+| <img src="https://avatars.githubusercontent.com/u/123712285?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/62226667?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/97656198?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/62991586?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/124219344?v=4" width="100"> | 
 
 ## Network (네트워크)
 1. 네트워크의 기초
