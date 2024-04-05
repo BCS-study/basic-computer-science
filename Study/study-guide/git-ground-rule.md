@@ -41,7 +41,8 @@
 
 3. remote upstream
    1. 의미: 원본 저장소를 원격 저장소로 추가합니다. 이를 통해 원본 저장소의 변경사항을 가져와서 자신의 로컬 저장소에 반영할 수 있습니다.
-   2. 방법: git remote add upstream [원본 저장소의 URL]
+   2. 방법: (로컬 저장소 내에서) git remote add upstream [원본 저장소의 URL]
+      1. 원본 저장소 URL: git remote add upstream https://github.com/BCS-study/basic-computer-science
 
 ## 작업 흐름 (Workflow)
 1. 원본 저장소로부터 변경사항 가져오기
