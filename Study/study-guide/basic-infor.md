@@ -1,6 +1,6 @@
 ## ⭐️ 기본 정보
 - 스터디 이름: BCS(Basic Computer Science)
-- 구성원: 김상혁, 김영현, 박동휘, 오한얼, 이수민
+- 구성원: 김상혁, 김영현, 엄인국, 오한얼, 이수민
 - 목표: 기본적인 CS 지식을 **설명할 수 있는 수준** 달성
 - 기간: 2024.04.04(목) ~ 2024.05.23(목) (총 6주 + 1주(OT))
 - 학습 자료: [면접을 위한 CS 전공지식 노트(주홍철)](https://product.kyobobook.co.kr/detail/S000001834833?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-435935280379&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fhby9LTtW8HLZ5Wg0aW9oKf_EyHPNtAttNCtkeyvmU4HlWw4sGx6VYaAnT5EALw_wcB) 2장 ~ 4장
