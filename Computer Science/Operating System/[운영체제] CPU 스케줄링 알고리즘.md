@@ -13,12 +13,12 @@
   - [목차](#목차)
   - [CPU 스케줄러란?](#cpu-스케줄러란?)
   - [비선점형 방식](#비선점형-방식)
-    - [FCFS](#FCFS(Frist-Come,-First-Served)-Scheduling)
-    - [SJF](#SJF(Shortest-Job-First)-Scheduling)
+    - [FCFS](#fcfs(frist-come,-first-served)-scheduling)
+    - [SJF](#sjf(shortest-job-first)-scheduling)
     - [우선순위](#우선순위)
   - [선점형 방식](#선점형-방식)
-    - [라운드 로빈](#RR-(Round-Robin)-Scheduling)
-    - [SRF](#SRF(Shortest-Remaining-Time-First))
+    - [라운드 로빈](#rr-(round-robin)-scheduling)
+    - [SRF](#srf(shortest-remaining-time-first))
     - [다단계 큐](#다단계-큐)
 
 
