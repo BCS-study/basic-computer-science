@@ -11,6 +11,7 @@
 | <img src="https://avatars.githubusercontent.com/u/123712285?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/62226667?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/97656198?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/62991586?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/124219344?v=4" width="100"> | 
 
 ## Network (네트워크)
+
 1. 네트워크의 기초
 2. TCP/IP 4계층 모델
 3. 네트워크 기기
@@ -18,15 +19,18 @@
 5. HTTP
 
 ## OS (운영체제)
+
 1. 운영체제와 컴퓨터
 2. 메모리
 3. 프로세스와 스레드
 4. CPU 스케줄링 알고리즘
 
 ## DB (데이터베이스)
+
 1. 데이터베이스의 기본
 2. ERD와 정규화 과정
 3. 트랜잭션과 무결성
-4. 인덱스
-5. 조인의 종류
-6. 조인의 원리
+4. 데이터베이스의 종류
+5. 인덱스
+6. 조인의 종류
+7. 조인의 원리
