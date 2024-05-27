@@ -14,11 +14,11 @@
 
 | 팀원 | 후기 |
 |:---:|:---:|
-| <img src="https://avatars.githubusercontent.com/u/123712285?v=4" width="50"> <br> [상혁](https://github.com/NewCodes7)  | CS에 대한 지식이 거의 없다시피 했지만, 스터디를 이끌며 빠르게 기초 지식을 쌓았다! |
-| <img src="https://avatars.githubusercontent.com/u/62226667?v=4" width="50"> <br> [영현](https://github.com/k2645)  | 매주 스터디를 통해 학습한 것을 정리하고 문서화하는 방법을 터득할 수 있었다! |
-| <img src="https://avatars.githubusercontent.com/u/62991586?v=4" width="50"> <br> [한얼](https://github.com/OhHaneol)  | 6주 간의 여정 덕분에 희미해져 가고 있던 전공 지식을 되살릴 수 있었다! |
-| <img src="https://avatars.githubusercontent.com/u/124219344?v=4" width="50"> <br> [수민](https://github.com/minsu111)  | CS 공부법, 문서화 방법, 설명하는 방법, 인터뷰 스킬 등 얻은 게 많았다! |
-| <img src="https://avatars.githubusercontent.com/u/97656198?v=4" width="50"> <br> [인국](https://github.com/ukukdin)  | 현업을 하면서 잠시 잊었던 CS 지식을 복습할 수 있었다! |
+| <img src="https://avatars.githubusercontent.com/u/123712285?v=4" width="50"> <br> [상혁](https://github.com/NewCodes7)  | CS에 대한 지식이 거의 없다시피 했지만, 스터디를 이끌며 빠르게 기초 지식을 쌓았다. |
+| <img src="https://avatars.githubusercontent.com/u/62226667?v=4" width="50"> <br> [영현](https://github.com/k2645)  | 매주 스터디를 통해 학습한 것을 정리하고 문서화하는 방법을 터득할 수 있었다. |
+| <img src="https://avatars.githubusercontent.com/u/62991586?v=4" width="50"> <br> [한얼](https://github.com/OhHaneol)  | 6주 간의 여정 덕분에 희미해져 가고 있던 전공 지식을 되살릴 수 있었다. |
+| <img src="https://avatars.githubusercontent.com/u/124219344?v=4" width="50"> <br> [수민](https://github.com/minsu111)  | CS 공부법, 문서화 방법, 설명하는 방법, 인터뷰 스킬 등 얻은 게 많았다. |
+| <img src="https://avatars.githubusercontent.com/u/97656198?v=4" width="50"> <br> [인국](https://github.com/ukukdin)  | 현업을 하면서 잠시 잊었던 CS 지식을 복습할 수 있었다. |
 
 ### BCS 스터디 문화
 
